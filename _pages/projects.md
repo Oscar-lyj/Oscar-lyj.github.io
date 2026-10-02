@@ -8,7 +8,7 @@ nav_order: 1
 # display_categories: [work, fun]
 horizontal: false
 ---
-<p style="font-size: 1.25rem; font-weight: 700;">
+<p style="font-size: 1.25rem; font-weight: 400;">
   My research investigates the physics of granular materials, liquid droplets, and multiphase flows, using experiments, simulations, and theory to reveal the mechanisms governing their behavior.
 </p>
 
