@@ -1,13 +1,16 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+# description: The physics of granular materials, liquid droplets, and multiphase flow. The work combines experimental, simulation, and theory to undertsand interesting physicsal phenomonon.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+# display_categories: [work, fun]
 horizontal: false
 ---
+<p style="font-size: 1.25rem; font-weight: 700;">
+  My research investigates the physics of granular materials, liquid droplets, and multiphase flows, using experiments, simulations, and theory to reveal the mechanisms governing their behavior.
+</p>
 
 <!-- pages/projects.md -->
 <div class="projects">
