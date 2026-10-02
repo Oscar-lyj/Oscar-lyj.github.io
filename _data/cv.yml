@@ -46,7 +46,7 @@ cv:
           # - Description 1.
           # - Description 2.
 
-    Experience:
+    # Experience:
     #   - company: Institute for Advanced Study, Princeton University
     #     position: Professor of Theoretical Physics
     #     location: Princeton University, NJ
@@ -84,7 +84,7 @@ cv:
     #     start_date: 1909
     #     end_date: 1911
 
-    Volunteer:
+    # Volunteer:
     #   - company: People's Climate March
     #     position: Lead Organizer
     #     location: Zurich, Switzerland
@@ -106,7 +106,7 @@ cv:
 
 
 
-    Publications:
+    # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
     #     authors:
     #       - Albert Einstein
@@ -131,25 +131,25 @@ cv:
     #     url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
     #     summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    Skills:
+    # Skills:
     #   - name: Physics
     #     level: Master
     #     icon: fa-solid fa-hashtag
     #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Languages:
+    # Languages:
     #   - name: German
     #     summary: "Native speaker"
 
     #   - name: English
     #     summary: "Fluent"
 
-    Interests:
+    # Interests:
     #   - name: Physics
     #     icon: fa-solid fa-tag
     #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
+    # Certificates:
     #   - name: Machine Learning
     #     date: 2018-01-01
     #     issuer: Stanford University
@@ -165,7 +165,7 @@ cv:
     #     issuer: Stanford University
     #     icon: fa-solid fa-envelope
 
-    Projects:
+    # Projects:
     #   - name: Quantum Computing
     #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
     #     highlights:
@@ -174,7 +174,7 @@ cv:
     #     start_date: 2018-01-01
     #     end_date: 2018-01-01
 
-    References:
+    # References:
     #   - name: Professor John Doe
     #     icon: fa-solid fa-laptop
     #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
