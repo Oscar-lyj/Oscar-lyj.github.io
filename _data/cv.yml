@@ -99,7 +99,8 @@ cv:
       - title: Styring Exhibitioner
         authors:
           - "The Queen's College, University of Oxford"
-        date: 2023-2025
+        start_date: 2023
+        end_date: 2025
         awarder: "The Queen's College, University of Oxford"
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
