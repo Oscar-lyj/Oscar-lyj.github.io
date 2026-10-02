@@ -12,13 +12,13 @@ cv:
     # - network: GitHub
     #   username: example
     - network: LinkedIn
-      username: www.linkedin.com/in/yin-kwan-li-9043a2250
+      username: yin-kwan-li-9043a2250
 
   address:
-    street: 
+    street: ""
     city: College Park
     region: Maryland
-    postalCode: 
+    postalCode: "" 
     countryCode: US
 
   sections:
@@ -29,7 +29,7 @@ cv:
         area: Mechanical Engineering
         studyType: PhD
         start_date: 2027
-        end_date: 
+        end_date: ""
         score: ""
         # courses: "Theory of Relativity"
         highlights:
@@ -99,8 +99,8 @@ cv:
       - title: Styring Exhibitioner
         authors:
           - "The Queen's College, University of Oxford"
-        date: 2023~2025
-        awarder:The Queen's College, University of Oxford
+        date: "2023-2025"
+        awarder: The Queen's College, University of Oxford
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
