@@ -1,6 +1,6 @@
 cv:
   name: Oscar Li
-  label: PhD student
+  # label: PhD student
   email: oscarli@umd.edu
   location: University of Maryland, College Park
   image: ""
@@ -15,10 +15,10 @@ cv:
       username: yin-kwan-li-9043a2250
 
   address:
-    street: ""
+    street: Glenn L. Martin Hall
     city: College Park
-    region: Maryland
-    postalCode: "" 
+    region: MD
+    postalCode: 20742 
     countryCode: US
 
   sections:
@@ -99,7 +99,7 @@ cv:
       - title: Styring Exhibitioner
         authors:
           - "The Queen's College, University of Oxford"
-        date: "2023-2025"
+        date: 2023-2025
         awarder: "The Queen's College, University of Oxford"
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
