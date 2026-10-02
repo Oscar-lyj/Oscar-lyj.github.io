@@ -40,7 +40,8 @@ cv:
         location: Oxford, UK
         area: Physics
         studyType: MPhys
-        date: 2025
+        start_date: 2022
+        end_date: 2026
         highlights:
           # - Description 1.
           # - Description 2.
@@ -98,8 +99,7 @@ cv:
       - title: Styring Exhibitioner
         authors:
           - "The Queen's College, University of Oxford"
-        start_date: 2023
-        end_date: 2025
+        date: 2025
         awarder: "The Queen's College, University of Oxford"
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
