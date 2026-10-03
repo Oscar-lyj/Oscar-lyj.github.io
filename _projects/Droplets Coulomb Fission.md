@@ -2,14 +2,28 @@
 layout: page
 title: Droplets Coulomb Fission
 description: Spontaneous Coulomb fission concerns the instability and breakup of electrically charged liquid drops under the combined action of electrostatic stress and surface tension.
-img: assets/img/12.jpg
+img: assets/img/coulomb_fission_3.png
 importance: 1
 related_publications: true
 ---
 
 Spontaneous Coulomb fission of water droplets on lubricated surfaces describes how electrically charged droplets deform and ultimately break apart when electrostatic forces overcome the stabilizing effect of surface tension. The phenomenon is governed by a subtle balance between charge accumulation, capillary pressure, viscous dissipation, and the interfacial properties of the lubricating layer. Unlike droplets resting on ordinary solid surfaces, droplets on lubricated substrates experience reduced pinning and greater mobility, which can significantly alter the onset and morphology of breakup. These conditions give rise to rich electrohydrodynamic behavior, including shape instabilities, tip formation, charge redistribution, and satellite droplet emission. Studying these dynamics helps clarify how electric fields interact with soft fluid interfaces in low-friction environments. This understanding is relevant to broader problems in fluid transport, surface engineering, and electrically controlled manipulation of liquids. {% cite Lin2026-ah%}.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coulomb_fission_1.jpg" title="coulomb_fission" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coulomb_fission_2.png" title="suspended_coulomb_fission" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
+
+
+
+{% comment %}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -24,9 +38,6 @@ Spontaneous Coulomb fission of water droplets on lubricated surfaces describes h
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-
-
-{% comment %}
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
