@@ -14,11 +14,6 @@ Spontaneous Coulomb fission of water droplets on lubricated surfaces describes h
         {% include figure.liquid loading="eager" path="assets/img/coulomb_fission_1.jpg" title="coulomb_fission" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/coulomb_fission_2.png" title="suspended_coulomb_fission" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 
 
