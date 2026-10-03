@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Droplets Coulomb Fission
-description: Spontaneous Coulomb fission on lubricated surfaces concerns the instability and breakup of electrically charged liquid drops under the combined action of electrostatic stress and surface tension.
+description: Spontaneous Coulomb fission concerns the instability and breakup of electrically charged liquid drops under the combined action of electrostatic stress and surface tension.
 img: assets/img/12.jpg
 importance: 1
 related_publications: true
