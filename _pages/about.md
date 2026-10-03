@@ -30,5 +30,5 @@ Oscar Li is a Ph.D. student in Mechanical Engineering at the University of Maryl
 
 Outside the lab, Oscar enjoys playing badminton, fishing, playing the guitar, and producing music.
 <div style="text-align: center;">
-  <img src="/assets/img/coulomb_fission_2.png" alt="droplets" width="500">
+  <img src="/assets/img/about.gif" alt="droplets" width="500">
 </div>
