@@ -2,7 +2,7 @@
 layout: page
 title: Cohesive Granular Flow
 description: Cohesive granular flow concerns the collective motion and destabilization of partially bonded particles under the combined effects of rotation, gravity, friction, and interparticle cohesion.
-img: assets/img/3.jpg
+img: assets/img/granular_1.png
 importance: 2
 ---
 
